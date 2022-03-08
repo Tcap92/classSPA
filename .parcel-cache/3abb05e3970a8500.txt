@@ -1,7 +1,7 @@
 7040
 110C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\@parcel\package-manager\test\fixtures\empty\package.json132905720853120435 0
 95C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\caniuse-lite\data\features\eventsource.js132905720811345274 0
-51C:\Users\zzzns\code\SavvyCoders\classSPA\.gitignore132905697920940075 0
+51C:\Users\zzzns\code\SavvyCoders\classSPA\.gitignore132911749462144390 0
 80C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\@parcel\core\lib\worker.js132905720872870621 0
 86C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\terser\lib\compress\inference.js132905720833880919 0
 74C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\lodash\fp\forEach.js132907477217155115 0
@@ -16,7 +16,7 @@
 77C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\prettier\parser-flow.js132905700861114823 0
 95C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\eslint\lib\linter\node-event-generator.js132905700870191389 0
 110C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\msgpackr-extract\prebuilds\linux-x64\electron.abi98.node132905720804025447 0
-53C:\Users\zzzns\code\SavvyCoders\classSPA\package.json132911723573627876 0
+53C:\Users\zzzns\code\SavvyCoders\classSPA\package.json132911757088964675 0
 69C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\is-glob\LICENSE132905700860097542 0
 108C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\caniuse-lite\data\features\mediacapture-fromelement.js132905720816579092 0
 72C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\lodash\_reorder.js132907477215958311 0
@@ -92,7 +92,7 @@
 62C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\svgo\lib132905720820441439 1
 75C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\.bin\browserslist.cmd132905721260787891 0
 74C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\lodash\collection.js132907477216526797 0
-45C:\Users\zzzns\code\SavvyCoders\classSPA\dist132911736611480730 1
+45C:\Users\zzzns\code\SavvyCoders\classSPA\dist132911754143377618 1
 85C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\@parcel\reporter-dev-server\lib132905720867281422 1
 89C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\postcss-merge-longhand\src\index.js132905720806049301 0
 79C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\posthtml-render\readme.md132905720808932402 0
@@ -2664,7 +2664,7 @@
 97C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\caniuse-lite\data\features\text-emphasis.js132905720819052260 0
 90C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\postcss-discard-comments\LICENSE-MIT132905720805690253 0
 81C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\eslint\lib\eslint\eslint.js132905700864187406 0
-67C:\Users\zzzns\code\SavvyCoders\classSPA\dist\index.3d214d75.js.map132911736611470754 0
+67C:\Users\zzzns\code\SavvyCoders\classSPA\dist\index.3d214d75.js.map132911754143297844 0
 82C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\postcss-discard-comments\src132905720805849831 1
 91C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\postcss-discard-comments\src\index.js132905720805889722 0
 71C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\lodash\setWith.js132907477219937665 0
@@ -4693,7 +4693,7 @@
 99C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\@parcel\fs-search\fs-search.darwin-arm64.node132905720822029627 0
 88C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\htmlnano\docs\docusaurus.config.js132905720811345274 0
 80C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\htmlnano\docs\netlify.toml132905720829903656 0
-58C:\Users\zzzns\code\SavvyCoders\classSPA\components\Nav.js132907495848199750 0
+58C:\Users\zzzns\code\SavvyCoders\classSPA\components\Nav.js132911754140594821 0
 83C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\entities\lib\maps\legacy.json132905720801399116 0
 85C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\htmlnano\docs\package-lock.json132905720828611583 0
 87C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\@parcel\utils\src\prettifyTime.js132905720869761439 0
@@ -7027,7 +7027,7 @@
 69C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\.bin\terser.cmd132905721260797864 0
 54C:\Users\zzzns\code\SavvyCoders\classSPA\dist\bio.html132905747836174959 0
 68C:\Users\zzzns\code\SavvyCoders\classSPA\dist\index.3a01df49.css.map132907495120902652 0
-63C:\Users\zzzns\code\SavvyCoders\classSPA\dist\index.3d214d75.js132911736611440836 0
+63C:\Users\zzzns\code\SavvyCoders\classSPA\dist\index.3d214d75.js132911754143257938 0
 63C:\Users\zzzns\code\SavvyCoders\classSPA\dist\index.c36f364e.js132906596771858421 0
 67C:\Users\zzzns\code\SavvyCoders\classSPA\dist\index.c36f364e.js.map132906596771858421 0
 56C:\Users\zzzns\code\SavvyCoders\classSPA\dist\index.html132907495121386429 0
