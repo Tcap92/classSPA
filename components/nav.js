@@ -1,13 +1,25 @@
 import html from "html-literal";
 
-export default () => html`
+export default links => html`
   <nav>
     <i class="fas fa-bars"></i>
     <ul class="hidden--mobile nav-links">
-      <li><a href="index.html">Home</a></li>
-      <li><a href="bio.html">Bio</a></li>
-      <li><a href="pizza.html">Pizza</a></li>
-      <li><a href="order.html">Order</a></li>
+      ${links.map(
+        el =>
+          `<li><a href="/${el.title}" title="${el.title}" data-navigo>${el.text}</a></li>`
+      )}
     </ul>
   </nav>
 `;
+
+// export default () => html`
+//   <nav>
+//     <i class="fas fa-bars"></i>
+//     <ul class="hidden--mobile nav-links">
+//       <li><a href="#index">Home</a></li>
+//       <li><a href="#bio">Bio</a></li>
+//       <li><a href="#pizza">Pizza</a></li>
+//       <li><a href="#order">Order</a></li>
+//     </ul>
+//   </nav>
+// `;

@@ -1,7 +1,8 @@
+import * as views from "./views";
 import html from "html-literal";
 
-import * as views from "./views";
-
-export default () => html`
-  ${views["home"]()} ${views["bio"]()} ${views["pizza"]()} ${views["order"]()}
+export default st => html`
+  ${views[st.view](st)}
 `;
+// <!-- ${views["Home"]()}, ${views["Bio"]()}, ${views["Pizza"]()},
+// ${views["Order"]()} -->
