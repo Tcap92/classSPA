@@ -86,7 +86,7 @@
 89C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\type-fest\source\readonly-deep.d.ts132905700860945275 0
 68C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\balanced-match132905700860396742 1
 85C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\source-map\lib\binary-search.js132905720797913206 0
-55C:\Users\zzzns\code\SavvyCoders\classSPA\store\Pizza.js132907416333467684 0
+55C:\Users\zzzns\code\SavvyCoders\classSPA\store\Pizza.js132912702947351990 0
 71C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\regexpp\README.md132905700860646078 0
 105C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\dom-serializer\node_modules\entities\lib\index.d.ts132905720865214979 0
 51C:\Users\zzzns\code\SavvyCoders\classSPA\components132911771539352193 1
@@ -96,7 +96,7 @@
 62C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\svgo\lib132905720820441439 1
 75C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\.bin\browserslist.cmd132905721260787891 0
 74C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\lodash\collection.js132907477216526797 0
-45C:\Users\zzzns\code\SavvyCoders\classSPA\dist132912675316720702 1
+45C:\Users\zzzns\code\SavvyCoders\classSPA\dist132913454161481334 1
 61C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\@parcel132905720789312949 1
 81C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\@parcel\events\src\index.js132905720861386763 0
 105C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\@parcel\runtime-js\lib\helpers\browser\js-loader.js132905720845740888 0
@@ -132,7 +132,7 @@
 62C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\inflight132905700860326932 1
 99C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\postcss-ordered-values\src\rules\listStyle.js132905720804736734 0
 85C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\css-tree\lib\syntax\node\Nth.js132905720800750847 0
-49C:\Users\zzzns\code\SavvyCoders\classSPA\index.js132912660844739679 0
+49C:\Users\zzzns\code\SavvyCoders\classSPA\index.js132913600947104170 0
 76C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\ajv\lib\dotjs\oneOf.js132905700861124798 0
 89C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\caniuse-lite\data\features\touch.js132905720819442889 0
 82C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\source-map\lib\quick-sort.js132905720797933155 0
@@ -2719,7 +2719,7 @@
 97C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\caniuse-lite\data\features\text-emphasis.js132905720819052260 0
 90C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\postcss-discard-comments\LICENSE-MIT132905720805690253 0
 81C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\eslint\lib\eslint\eslint.js132905700864187406 0
-67C:\Users\zzzns\code\SavvyCoders\classSPA\dist\index.3d214d75.js.map132912675316710727 0
+67C:\Users\zzzns\code\SavvyCoders\classSPA\dist\index.3d214d75.js.map132913454161381601 0
 82C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\postcss-discard-comments\src132905720805849831 1
 91C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\postcss-discard-comments\src\index.js132905720805889722 0
 71C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\lodash\setWith.js132907477219937665 0
@@ -3744,7 +3744,7 @@
 76C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\lodash\_baseIsEqual.js132907477214502214 0
 85C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\@parcel\diagnostic\package.json132905720860510984 0
 80C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\lodash\_baseIsEqualDeep.js132907477214502214 0
-66C:\Users\zzzns\code\SavvyCoders\classSPA\components\views\Pizza.js132911771539372138 0
+66C:\Users\zzzns\code\SavvyCoders\classSPA\components\views\Pizza.js132912701415184497 0
 76C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\lodash\_baseIsMatch.js132907477214512178 0
 74C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\lodash\_baseIsNaN.js132907477214522151 0
 94C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\@parcel\source-map\parcel_sourcemap_node132905720909507119 1
@@ -5492,7 +5492,7 @@
 81C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\css-tree\lib\lexer\trace.js132905720800920393 0
 85C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\caniuse-lite\data\regions\NL.js132905720816917698 0
 86C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\css-tree\lib\generator\create.js132905720798092727 0
-64C:\Users\zzzns\code\SavvyCoders\classSPA\dist\index.3a01df49.css132912666961599126 0
+64C:\Users\zzzns\code\SavvyCoders\classSPA\dist\index.3a01df49.css132912707468439951 0
 85C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\css-tree\lib\generator\index.js132905720800491543 0
 89C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\css-tree\lib\generator\sourceMap.js132905720800880506 0
 96C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\css-tree\lib\definition-syntax\generate.js132905720800172435 0
@@ -7142,13 +7142,13 @@
 65C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\.bin\terser132905721260797864 0
 69C:\Users\zzzns\code\SavvyCoders\classSPA\node_modules\.bin\terser.cmd132905721260797864 0
 54C:\Users\zzzns\code\SavvyCoders\classSPA\dist\bio.html132905747836174959 0
-68C:\Users\zzzns\code\SavvyCoders\classSPA\dist\index.3a01df49.css.map132912666961619084 0
-63C:\Users\zzzns\code\SavvyCoders\classSPA\dist\index.3d214d75.js132912675316680818 0
+68C:\Users\zzzns\code\SavvyCoders\classSPA\dist\index.3a01df49.css.map132912707468449928 0
+63C:\Users\zzzns\code\SavvyCoders\classSPA\dist\index.3d214d75.js132913454161351680 0
 63C:\Users\zzzns\code\SavvyCoders\classSPA\dist\index.c36f364e.js132906596771858421 0
 67C:\Users\zzzns\code\SavvyCoders\classSPA\dist\index.c36f364e.js.map132906596771858421 0
-56C:\Users\zzzns\code\SavvyCoders\classSPA\dist\index.html132912666962008033 0
+56C:\Users\zzzns\code\SavvyCoders\classSPA\dist\index.html132912707468918680 0
 63C:\Users\zzzns\code\SavvyCoders\classSPA\dist\order.c36f364e.js132905747836763385 0
-91C:\Users\zzzns\code\SavvyCoders\classSPA\dist\photo-1528334713982-2d1fe11a157a.b47d623e.jpg132912666961678916 0
+91C:\Users\zzzns\code\SavvyCoders\classSPA\dist\photo-1528334713982-2d1fe11a157a.b47d623e.jpg132912707468569614 0
 56C:\Users\zzzns\code\SavvyCoders\classSPA\dist\pizza.html132905747836673626 0
 61C:\Users\zzzns\code\SavvyCoders\classSPA\components\Header.js132911771539352193 0
 64C:\Users\zzzns\code\SavvyCoders\classSPA\components\views\Bio.js132911771539362167 0
